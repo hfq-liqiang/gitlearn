@@ -3,6 +3,6 @@ uuuuuuuuuuuuuuuuu
 qqqqqqqqqqqqqqqqq
 rrrrrrrrrrrrrrrrr
 ttttttttttttttttt
-xxxxxxxxxxxxxxxxx-in hot fix branch
+xxxxxxxxxxxxxxxxx-hot fix merged with master branch
 sssssssssssssssss
 wwwwwwwwwwwwwwww
