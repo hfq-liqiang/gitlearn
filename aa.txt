@@ -1,3 +1,0 @@
-abcdef
-rqrst
-in hot-fix branch
